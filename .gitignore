@@ -1,0 +1,15 @@
+# D7
+
+*.dcu
+*.cfg
+*.dof
+*.ddp
+
+# D7 Backups
+*.~pas
+*.~dpr
+*.~ddp
+*.~dfm
+
+# Other
+
